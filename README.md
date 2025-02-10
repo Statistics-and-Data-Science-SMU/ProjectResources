@@ -7,7 +7,7 @@ New to our project portfolio program? Check out these introduction slides [here!
 ## 📁 Repository Files
 
 - **project_ideas**: A list of ideas for projects you can work on to demonstrate your skills along with example datasets.
-- **work_schedule_template**: A template to help you organize the workload and guarantee a successful completion of your prokect.
+- **Project_Timeline_template**: A template to help you organize the workload and guarantee a successful completion of your prokect.
 - **your_project/**: If you would like support or feedback from club members or our team feel free to add a folder for your project.
   
 If you're interested in guided tutorials and beginner practice check out our **SADS-Tutorials** and **GBM_Workshops** repositories!
